@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center"><img src = "image\appIcon.png" width = "200" ></p>
+<p align="center"><img src = "Image\appIcon.png" width = "200" ></p>
 
 <p align="center">Spot - 자전거사고 지점</P>
 
@@ -16,19 +16,37 @@
 
 ## 주요 기능
 
-<img src = "image\image.png">
+<img src = "Image\image.png">
+
+<br>
 
 ### 1. 편리한 검색 기능
 
-- 년도와 지역을 세분화해서 검색할 수 있습니다. 
+- 검색하고자하는 지역을 **년도**와 **지역**으로 세분화해서 검색할 수 있습니다. 
+- 사용자는 UISegment와 UIPickerView, UITableView를 통해 쉽게 선택 가능합니다. 
+
+<img src = "Image\image1.png">
+
+<br>
+
+### 2. 세분화된 검색
+
+- 검색 결과를 한번에 확인 가능하며, 총 발생한 사고 발생 건수도 제공
+- 사고가 많은 지역의 경우 검색을 통해 빠르게 검색하게 검색 기능 포함
+
+|            자전거사고 검색 화면            |                   검색 화면                    |
+| :----------------------------------------: | :--------------------------------------------: |
+| <img src = "Image\image2.png" width = 300> | <img src = "Image\searchList.gif" width = 260> |
 
 
 
-### 2.
+<br>
 
+### 3. 사고지역 정보 지도에 제공
 
+- 모르는 지역에서도 쉽게 확인할 수 있도록 지도에 자전거 사고 지역을 표시
 
-### 3.
+  <img src = "Image\image3.png" >
 
-### 4. MapKit
+### 
 
